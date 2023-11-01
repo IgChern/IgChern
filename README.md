@@ -6,7 +6,7 @@ As a developer, I constantly strive to expand my skill set to stay up-to-date wi
 
 At the moment, my experience includes:
 
-***Python***: I'm familiar with the Python language and have experience working with frameworks like Django and FastAPI. These tools allow me to develop high-performance web applications and APIs.  
+***Language***: I'm familiar with the Python language and have experience working with frameworks like Django and FastAPI. These tools allow me to develop high-performance web applications and APIs.  
 ***Databases***: I have experience working with PostgreSQL and using the SQLAlchemy library to interact with databases. I'm also familiar with Psycopg2, which enables me to work effectively with PostgreSQL from Python.  
 ***Web Development***: I have basic skills in HTML and CSS.  
 ***Version Control***: I actively use Git and GitHub Actions for version control of my projects.  
