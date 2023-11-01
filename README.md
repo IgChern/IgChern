@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I am Igor Chernyshov 👋
 
-<!--
-**IgChern/IgChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer who transitioned from engineering
 
-Here are some ideas to get you started:
+As a developer, I constantly strive to expand my skill set to stay up-to-date with the latest trends in information technology. I am ready for new challenges in the field of information technology.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, my experience includes:
+
+***Python***: I'm familiar with the Python language and have experience working with frameworks like Django and FastAPI. These tools allow me to develop high-performance web applications and APIs.  
+***Databases***: I have experience working with PostgreSQL and using the SQLAlchemy library to interact with databases. I'm also familiar with Psycopg2, which enables me to work effectively with PostgreSQL from Python.  
+***Web Development***: I have basic skills in HTML and CSS.  
+***Version Control***: I actively use Git and GitHub Actions for version control of my projects.  
+
+# Get in touch
+
+[Telegram](https://t.me/Igareokay)
