@@ -12,4 +12,7 @@ At the moment, my experience includes:
 ***Version Control***: I actively use Git and GitHub Actions for version control of my projects.  
 
 # Get in touch
-[![Telegram](https://t.me/Igareokay)](https://github.com/IgChern/IgChern/blob/main/telelogo.svg)
+![ASCII captcha](https://github.com/IgChern/IgChern/blob/main/telelogo.svg) [Telegram](https://t.me/Igareokay)
+
+![Send me a message](https://github.com/IgChern/IgChern/blob/main/gmaillogo.svg)(mailto:igchern95@gmail.com)
+
