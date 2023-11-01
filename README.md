@@ -2,7 +2,7 @@
 
 ### Developer who transitioned from engineering
 
-As a developer, I constantly strive to expand my skill set to stay up-to-date with the latest trends in information technology. I am ready for new challenges in the field of information technology.   
+As a developer, I constantly strive to expand my skill set to stay up-to-date with the latest trends in information technology. I am ready for new challenges in the field of development.
 
 At the moment, my experience includes:
 
