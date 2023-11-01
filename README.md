@@ -11,8 +11,13 @@ At the moment, my experience includes:
 ***Web Development***: I have basic skills in HTML and CSS.  
 ***Version Control***: I actively use Git and GitHub Actions for version control of my projects.  
 
-# Get in touch
-![ASCII captcha](https://github.com/IgChern/IgChern/blob/main/telelogo.svg) [Telegram](https://t.me/Igareokay)
+# Get in touch 
+Thank you for taking the time to visit my GitHub!   
+If you'd like to get in touch with me, you can use the contact information below:
 
-![Send me a message](https://github.com/IgChern/IgChern/blob/main/gmaillogo.svg)(mailto:igchern95@gmail.com)
-
+<a href="https://t.me/Igareokay" >
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="igchern95@gmail.com" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
