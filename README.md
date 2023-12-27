@@ -22,7 +22,6 @@ Possess basic skills in HTML and CSS, continuously exploring front-end technolog
 - *Celery & Redis*: Use Celery for distributed task processing and Redis for caching and message brokering.
 - *Version Control*: Actively use Git and GitHub Actions for robust version control in projects.
 
-
 # Let's Connect! 
 Thank you for exploring my GitHub profile!  
 If you'd like to get in touch with me, you can use the contact information below:
