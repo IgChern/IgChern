@@ -6,7 +6,8 @@ As a developer, I constantly strive to expand my skill set to stay up-to-date wi
 
 At the moment, my experience includes:
 
-***Language***: I'm familiar with the Python, currently expanding my knowledge in Django + REST Framework.   
+***Language***
+   I'm familiar with the Python, currently expanding my knowledge in Django + REST Framework.   
 ***Databases***   
 - Experience working with PostgreSQL.
 - Use the SQLAlchemy library to interact with databases.
