@@ -6,18 +6,22 @@ As a developer, I constantly strive to expand my skill set to stay up-to-date wi
 
 At the moment, my experience includes:
 
-***Language***   
-I'm familiar with the Python, currently expanding my knowledge in Django + REST Framework.   
-***Databases***   
+**Language**
+I'm familiar with Python, currently expanding my knowledge in Django + REST Framework.
+
+**Databases**
 - Experience working with PostgreSQL.
 - Use the SQLAlchemy library to interact with databases.
 - Familiar with Psycopg2 for effective PostgreSQL integration with Python.
-***Web Development***   
+
+**Web Development**
 Possess basic skills in HTML and CSS, continuously exploring front-end technologies.
-***Tools and Technologies***   
-- **Docker & Docker Compose**: Knowledges in containerization for seamless deployment and scaling of applications.
-- **Celery & Redis**: Use Celery for distributed task processing and Redis for caching and message brokering.
-- **Version Control**: Actively use Git and GitHub Actions for robust version control in projects. 
+
+**Tools and Technologies**
+- *Docker & Docker Compose*: Knowledgeable in containerization for seamless deployment and scaling of applications.
+- *Celery & Redis*: Use Celery for distributed task processing and Redis for caching and message brokering.
+- *Version Control*: Actively use Git and GitHub Actions for robust version control in projects.
+
 
 # Let's Connect! 
 Thank you for exploring my GitHub profile!  
