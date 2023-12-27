@@ -6,7 +6,7 @@ As a developer, I constantly strive to expand my skill set to stay up-to-date wi
 
 At the moment, my experience includes:
 
-**Language**
+**Language**  
 I'm familiar with Python, currently expanding my knowledge in Django + REST Framework.
 
 **Databases**
@@ -14,7 +14,7 @@ I'm familiar with Python, currently expanding my knowledge in Django + REST Fram
 - Use the SQLAlchemy library to interact with databases.
 - Familiar with Psycopg2 for effective PostgreSQL integration with Python.
 
-**Web Development**
+**Web Development**  
 Possess basic skills in HTML and CSS, continuously exploring front-end technologies.
 
 **Tools and Technologies**
