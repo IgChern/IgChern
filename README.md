@@ -11,11 +11,11 @@ I'm familiar with Python, currently expanding my knowledge in Django + REST Fram
 
 **Databases**
 - Experience working with PostgreSQL.
-- Use the SQLAlchemy library to interact with databases.
+- Use the Django ORM to interact with databases.
 - Familiar with Psycopg2 for effective PostgreSQL integration with Python.
 
 **Web Development**  
-Possess basic skills in HTML and CSS, continuously exploring front-end technologies.
+Possess basic skills in HTML and CSS, continuously exploring front-end technologies, such as Bootstrap5.
 
 **Tools and Technologies**
 - *Docker & Docker Compose*: Knowledgeable in containerization for seamless deployment and scaling of applications.
