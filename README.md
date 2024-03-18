@@ -32,3 +32,5 @@ If you'd like to get in touch with me, you can use the contact information below
 <a href="mailto:igchern95@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://wakatime.com/@018e51af-53ed-40b5-b0ce-07bcf4603bca"><img src="https://wakatime.com/badge/user/018e51af-53ed-40b5-b0ce-07bcf4603bca.svg" alt="Total time coded since Mar 18 2024" />
+</a>
