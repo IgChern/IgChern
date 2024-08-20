@@ -2,7 +2,7 @@
 
 ### Developer who transitioned from engineering
 
-I am a Python developer with a strong desire and interest in advancing in this field and continually enhancing my professional skills. I am attentive and not afraid of complex tasks. I can work independently and am also ready to collaborate with other developers to create the best projects. 
+I am a Python developer with a strong desire and interest in advancing in this field and continually enhancing my professional skills. I am attentive and not afraid of complex tasks. I can work independently and also ready to collaborate with other developers to create the best projects. 
 
 <a href="https://wakatime.com/@018e51af-53ed-40b5-b0ce-07bcf4603bca"><img src="https://wakatime.com/badge/user/018e51af-53ed-40b5-b0ce-07bcf4603bca.svg" alt="Total time coded since Mar 18 2024" />
 </a>
